@@ -3,7 +3,7 @@
 # =================================================================
 # --- KONFIGURASI WAJIB ---
 # GANTI BARIS DI BAWAH INI DENGAN URL REPOSITORY GITHUB KAMU
-GITHUB_URL="https://github.com/username/nama-repository.git"
+GITHUB_URL="https://github.com/pinrocks/project-1"
 # =================================================================
 
 
